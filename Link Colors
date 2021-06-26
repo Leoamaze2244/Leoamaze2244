@@ -1,6 +1,12 @@
 {
   "data": [
     { 
+      "name": "Penguin", 
+      "direction": "72deg", 
+      "colors": ["#000000", "#ffffff"],
+      "positions": ["0%", "100%"]
+    },
+    { 
       "name": "warmFlame", 
       "direction": "90deg", 
       "colors": ["#ff9a9e", "#fad0c4"],
